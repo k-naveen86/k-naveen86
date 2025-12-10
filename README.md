@@ -1,27 +1,29 @@
-# K-Naveen
-📌 Personal GitHub Portfolio
+<!-- FULL BACKGROUND BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Naveen%20🚀&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Portfolio&descAlignY=60&animation=fadeIn" alt="Naveen's GitHub banner"/>
+  <img src="https://i.imgur.com/qZ1Z4eP.jpeg" width="100%" alt="Background Image">
 </p>
 
-# 👋 Hi there, I'm K Naveen!
-
-🎓 Computer Science Engineering Student | 🌱 contribute something to your life to look better
-
----
-
-### 📫 Connect with Me
-
-- ✉️ Email: [862naveen@gmail.com](mailto:862naveen@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/k-naveen-307352344) 
-- 💻 [GitHub](https://github.com/naveen-86-og)
----
-
+<h1 align="center">Hi, I'm <strong>K Naveen</strong> 👋</h1>
+<h3 align="center">Computer Science Engineering Student</h3>
 
 ---
 
-> ⭐ I love building real-world tools that solve simple problems in creative ways!
-### Tools  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 📫 Connect with Me
+- ✉️ Email: **862naveen@gmail.com**  
+- 🌐 LinkedIn: [k-naveen-307352344](https://www.linkedin.com/in/k-naveen-307352344)  
+- 💻 GitHub: [naveen-86-og](https://github.com/naveen-86-og)
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=00C7F7&center=true&vCenter=true&width=500&lines=Learning+Every+Day;Building+Useful+Things;Becoming+Better+Version+Of+Myself" alt="Typing Animation">
+</p>
+
+---
+
+> ⭐ *I love building simple tools that make life easier.*
+
+<!-- FOOTER BACKGROUND WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer">
+</p>
