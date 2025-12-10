@@ -21,3 +21,7 @@
 ---
 
 > ⭐ I love building real-world tools that solve simple problems in creative ways!
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
