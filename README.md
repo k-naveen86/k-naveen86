@@ -1,16 +1,23 @@
-## Hi there 👋
+# K-Naveen
+📌 Personal GitHub Portfolio
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Naveen%20🚀&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Portfolio&descAlignY=60&animation=fadeIn" alt="Naveen's GitHub banner"/>
+</p>
 
-<!--
-**k-naveen86/k-naveen86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm K Naveen!
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student | 🌱 contribute something to your life to look better
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with Me
+
+- ✉️ Email: [862naveen@gmail.com](mailto:862naveen@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/k-naveen-307352344) 
+- 💻 [GitHub](https://github.com/naveen-86-og)
+---
+
+
+---
+
+> ⭐ I love building real-world tools that solve simple problems in creative ways!
